@@ -1,6 +1,6 @@
-# CODSOFT Flutter Internship Projects
+# CODSOFT Android App Development Internship
 
-This repository contains my submissions for the **CodSoft Software Development Internship**. It includes three premium, fully functional applications built with Flutter and Dart, focused on clean architecture, local storage data persistence, custom styling, and optimal performance.
+This repository contains my submissions for the **CodSoft Android App Development Internship**. It includes three premium, fully functional applications built with Flutter and Dart, focused on clean architecture, local storage data persistence, custom styling, and optimal performance.
 
 ## 📁 Repository Structure
 
@@ -80,4 +80,4 @@ flutter run -d chrome        # Runs the app on Google Chrome
 
 ## 👤 Developer
 *   **Name**: Md Rounaq Ali
-*   **Internship**: Software Development Intern at CodSoft
+*   **Internship**: Android App Development Intern at CodSoft
